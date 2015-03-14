@@ -1,0 +1,1 @@
+Calculer rapidement la consommation finale d'énergie
